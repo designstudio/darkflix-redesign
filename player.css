@@ -1,0 +1,8 @@
+.title-bug-container a, .title-bug-container button { cursor: pointer }
+.title-bug-area { position: fixed; z-index: 11; padding: 40px 64px }
+.title-bug-area .title-btn, .title-bug-area .title-btn:focus, .title-bug-area .title-btn:active { background: transparent; color: rgba(255,255,255,.6); border: 0; font-size: 32px; font-weight: bold; font-family: 'Roboto'; outline: none}
+.title-bug-area .back-arrow, .title-bug-area .back-arrow:focus, .title-bug-area .back-arrow:active { background: transparent; border: 0; height: 40px; float: left; outline: none }
+.title-bug-area .back-arrow img, .title-bug-area .back-arrow img:focus, .title-bug-area .back-arrow img:active { width: 32px; opacity: .6; outline: none }
+.title-bug-area:hover .title-btn { color: #fff }
+.title-bug-area:hover img { opacity: 1 }
+.focus-hack-div:active, .focus-hack-div:focus { outline: none }
