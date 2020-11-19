@@ -211,7 +211,7 @@ p {
   width: 100%;
   position: relative;
   background-size: cover;
-  min-height: 900px;
+  min-height: 956px;
 }
 .Hero .content {
   position: relative;
@@ -222,7 +222,7 @@ p {
   padding: 20px 64px;
 }
 .Hero .content .logo {
-  max-width: 400px;
+  max-width: 500px;
   display: block;
   position: relative;
   left: -5px;

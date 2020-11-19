@@ -6,3 +6,4 @@
 .title-bug-area:hover .title-btn { color: #fff }
 .title-bug-area:hover img { opacity: 1 }
 .focus-hack-div:active, .focus-hack-div:focus { outline: none }
+.subtitle-field { text-align: left; font-size: 14px; font-weight: 400 }
